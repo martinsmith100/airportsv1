@@ -70,7 +70,6 @@ def query_increment():
     global query_count
     query_count = query_count + 1
 
-
 # run the app.
 if __name__ == "__main__":
     # Setting debug to True enables debug output. This line should be
